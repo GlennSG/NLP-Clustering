@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[ ]:
+# In[1]:
 
 
 url_dict = {
@@ -33,9 +33,8 @@ url_dict = {
     "Buckner":[
         "http://www.gutenberg.org/cache/epub/27053/pg27053.txt"
     ],
-    # Budrys (7)
+    # Budrys (6)
     "Budrys":[
-        "http://www.gutenberg.org/cache/epub/30828/pg30828.txt",
         "http://www.gutenberg.org/cache/epub/26191/pg26191.txt",
         "http://www.gutenberg.org/cache/epub/40968/pg40968.txt",
         "http://www.gutenberg.org/cache/epub/51589/pg51589.txt",
@@ -123,6 +122,10 @@ url_dict = {
         "http://www.gutenberg.org/cache/epub/26741/pg26741.txt",
         "http://www.gutenberg.org/cache/epub/27393/pg27393.txt",
         "http://www.gutenberg.org/cache/epub/24370/pg24370.txt"
+    ],
+  # Sentry (1)
+    "Sentry":[
+        "http://www.gutenberg.org/cache/epub/30828/pg30828.txt"
     ],
   # Wells (10)
     "Wells":[
