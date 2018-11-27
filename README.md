@@ -3,5 +3,6 @@ An unsupervised learning approach to classifying authors from 100 different book
 
 The unsupervised learning models were able to cluster the texts into meaningful groups that could then be paired to a particular author. It's hard to see which author wrote a chunk of text in K-means cluster graphs, but K-means was still useful in figuring out which author was most likely to write a certain chunk of text using a DataFrame. The best visual that provided a more meaningful distinction between texts by author was the ward hierarchical model. You can clearly see how the authors are grouped by the clusters. 
 
-Preprocessing Link:
-Project Link:
+Project Gutenberg Books Link: https://github.com/GlennSG/NLP-Clustering/blob/master/100%20Books%20from%20Project%20Gutenberg.ipynb
+
+Project Link: https://github.com/GlennSG/NLP-Clustering/blob/master/Unsupervised%20Learning%20Capstone%20Final.ipynb
